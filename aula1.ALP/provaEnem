@@ -1,0 +1,68 @@
+ALGORITMO: IR FAZER A PROVA DO ENEM
+
+Dirigir-se ao quarto.
+
+Separar:
+
+Documento oficial com foto
+Cartão de confirmação do ENEM
+Caneta esferográfica preta (material transparente)
+Garrafa de água
+Lanche leve
+Máscara (se necessário)
+
+Verificar a data e o horário da prova.
+
+SE o horário atual for menor que o horário de saída ENTÃO
+ Aguardar até o horário programado.
+SENÃO
+ Prosseguir para a saída.
+
+Tomar banho.
+
+Vestir roupas confortáveis.
+
+Calçar os sapatos.
+
+Pegar os itens separados anteriormente.
+
+Verificar novamente se o documento e a caneta estão na mochila.
+
+Dirigir-se à porta de saída.
+
+Sair de casa.
+
+Dirigir-se ao local de prova utilizando o meio de transporte escolhido.
+
+Ao chegar ao local da prova:
+
+Verificar o portão correto.
+
+Aguardar a liberação da entrada.
+
+Entrar no local de prova.
+
+Dirigir-se à sala indicada.
+
+Entregar o documento ao fiscal.
+
+Assinar a lista de presença.
+
+Sentar-se na carteira indicada.
+
+Aguardar a entrega da prova.
+
+Quando autorizado, iniciar a prova.
+
+Ler atentamente as questões.
+
+Responder as questões dentro do tempo disponível.
+
+SE o tempo estiver acabando ENTÃO
+ Preencher o cartão-resposta.
+SENÃO
+ Revisar as respostas.
+
+Ao finalizar, entregar o cartão-resposta e a prova conforme instruções.
+
+Sair da sala.

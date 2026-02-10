@@ -1,0 +1,50 @@
+ALGORITMO: LAVAR A LOUÇA
+
+INÍCIO
+
+Dirigir-se à cozinha.
+
+Reunir a louça suja.
+
+Separar:
+
+Pratos
+Copos
+Talheres
+Panelas
+
+Colocar a louça próxima à pia.
+
+Verificar se há detergente e esponja disponíveis.
+
+SE não houver detergente OU esponja ENTÃO
+ Providenciar os materiais necessários.
+SENÃO
+ Prosseguir.
+
+Abrir a torneira.
+
+Molhar a esponja.
+
+Aplicar detergente na esponja.
+
+Lavar a louça seguindo a ordem:
+
+Copos
+Talheres
+Pratos
+Panelas
+
+Para cada item FAÇA
+ Esfregar com a esponja.
+ Enxaguar com água corrente.
+
+Após lavar todos os itens:
+
+Colocar a louça no escorredor.
+
+Fechar a torneira.
+
+Limpar a pia.
+
+Aguardar a louça secar.

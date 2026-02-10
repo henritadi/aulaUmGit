@@ -1,0 +1,45 @@
+ALGORITMO: ASSISTIR UM FILME
+
+Dirigir-se à sala.
+
+Ligar a televisão.
+
+Escolher o meio de reprodução do filme (TV, streaming ou DVD).
+
+SE o meio escolhido for streaming ENTÃO
+ Conectar-se à internet.
+SENÃO
+ Inserir o DVD no aparelho.
+
+Escolher o filme desejado.
+
+Preparar o ambiente:
+
+Apagar ou diminuir as luzes.
+Ajustar o volume da televisão.
+
+Separar:
+
+Pipoca
+Bebida
+Almofada ou cobertor (se necessário)
+
+Sentar-se em um local confortável.
+
+Iniciar o filme.
+
+Enquanto o filme não terminar FAÇA
+ Assistir atentamente.
+
+SE precisar pausar ENTÃO
+ Pausar o filme.
+SENÃO
+ Continuar assistindo.
+
+Quando o filme terminar:
+
+Desligar a televisão.
+
+Guardar os objetos utilizados.
+
+Encerrar a atividade.
